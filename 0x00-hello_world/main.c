@@ -1,10 +1,11 @@
 #include <stdio.h>
-/*
- * main - Entry Point
- * Return: 0(success)
+/**
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
-	printf("This is the main function. \n")
+	printf("Holberton School \n");
 	return (0);
 }
