@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h>
 /*
  * main -Entry,input for code
  * Return: Always 0
